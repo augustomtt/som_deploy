@@ -50296,7 +50296,7 @@ var $async$kH=A.Q(function(c,d){if(c===1)return A.M(d,r)
 while(true)switch(s){case 0:q.b=!0
 q.a0()
 p=A.cL(a,!1,t.c)
-o=A.f7("http://201.179.142.253:7777/clusters")
+o=A.f7("https://201.179.142.253:7777/clusters")
 n=B.e.k(p.a.e)!==""?p.a.e:24
 m=B.e.k(p.a.f)!==""?p.a.f:31
 l=b!==""?b:10
@@ -50336,7 +50336,7 @@ return A.O($async$AL,r)},
 Bu(a,b,c,d){return this.apO(a,b,c,d)},
 apO(a,b,c,d){var s=0,r=A.P(t.a),q,p=this,o,n,m,l,k
 var $async$Bu=A.Q(function(e,f){if(e===1)return A.M(f,r)
-while(true)switch(s){case 0:n=A.f7("http://201.179.142.253:7777/"+a)
+while(true)switch(s){case 0:n=A.f7("https://201.179.142.253:7777/"+a)
 m=t.N
 l=A.aw(["Accept","/*"],m,m)
 s=3
@@ -50500,7 +50500,7 @@ kH(a,b){return this.apQ(a,b)},
 apQ(a,b){var s=0,r=A.P(t.P9),q,p=this,o,n,m,l,k,j,i,h,g,f,e
 var $async$kH=A.Q(function(c,d){if(c===1)return A.M(d,r)
 while(true)switch(s){case 0:k=A.cL(a,!1,t.c)
-j=A.f7("http://201.179.142.253:7777/clusters")
+j=A.f7("https://201.179.142.253:7777/clusters")
 i=B.e.k(k.a.e)!==""?k.a.e:24
 h=B.e.k(k.a.f)!==""?k.a.f:31
 g=b!==""?b:10
@@ -50579,7 +50579,7 @@ apT(a,b,c){var s=0,r=A.P(t.GU),q,p=this,o,n,m,l,k,j,i,h
 var $async$ri=A.Q(function(d,e){if(d===1)return A.M(e,r)
 while(true)switch(s){case 0:p.a0()
 o=A.cL(a,!1,t.c)
-n=A.f7("http://201.179.142.253:7777/nuevosDatos")
+n=A.f7("https://201.179.142.253:7777/nuevosDatos")
 m=B.e.k(o.a.e)!==""?o.a.e:24
 l=B.e.k(o.a.f)!==""?o.a.f:31
 k=t.N
